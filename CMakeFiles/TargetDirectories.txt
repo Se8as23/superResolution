@@ -1,0 +1,3 @@
+/home/se8as23/Escritorio/Universidad/p66/VisionPorComputador/ClasificacionObjetos/superResolution/bAvila_RedSuperResoluci-n-_RealESRGAN-main/CMakeFiles/principal.dir
+/home/se8as23/Escritorio/Universidad/p66/VisionPorComputador/ClasificacionObjetos/superResolution/bAvila_RedSuperResoluci-n-_RealESRGAN-main/CMakeFiles/edit_cache.dir
+/home/se8as23/Escritorio/Universidad/p66/VisionPorComputador/ClasificacionObjetos/superResolution/bAvila_RedSuperResoluci-n-_RealESRGAN-main/CMakeFiles/rebuild_cache.dir
